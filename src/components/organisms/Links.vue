@@ -6,7 +6,10 @@
         v-for="link in links"
         :key="link.name"
       >
-        <A :href="link.url">
+        <A
+          :href="link.url"
+          target="_blank"
+        >
           {{ link.name }}
         </A>
       </li>
