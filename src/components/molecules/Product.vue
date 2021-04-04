@@ -1,15 +1,13 @@
 <template>
+  <li>
+    <A
+      :href="product.url"
+      target="_blank"
+    >{{ product.name }}</A>
+  </li>
   <Ul>
-    <li>
-      <A
-        :href="product.url"
-        target="_blank"
-      >{{ product.name }}</A>
-    </li>
-    <Ul>
-      <li>{{ product.description }}</li>
-      <li>{{ product.tools }}</li>
-    </Ul>
+    <li>{{ product.description }}</li>
+    <li>{{ product.tools }}</li>
   </Ul>
 </template>
 
