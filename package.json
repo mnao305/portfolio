@@ -19,6 +19,6 @@
     "eslint": "7.26.0",
     "typescript": "4.2.4",
     "vite": "2.3.3",
-    "vite-ssg": "0.10.0"
+    "vite-ssg": "0.11.1"
   }
 }
