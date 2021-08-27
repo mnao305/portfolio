@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@mnao305/eslint-config": "3.0.0",
-    "@vitejs/plugin-vue": "1.4.0",
+    "@vitejs/plugin-vue": "1.6.0",
     "@vue/compiler-sfc": "3.2.4",
     "@vue/server-renderer": "3.2.4",
     "@vueuse/head": "0.6.0",
