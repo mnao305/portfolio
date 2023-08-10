@@ -18,7 +18,7 @@
     "@vueuse/head": "0.9.8",
     "eslint": "8.46.0",
     "typescript": "4.9.5",
-    "vite": "3.2.7",
+    "vite": "4.4.9",
     "vite-ssg": "0.23.0"
   }
 }
