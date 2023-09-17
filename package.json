@@ -13,12 +13,12 @@
   "devDependencies": {
     "@mnao305/eslint-config": "6.0.0",
     "@vitejs/plugin-vue": "3.2.0",
-    "@vue/compiler-sfc": "3.3.1",
-    "@vue/server-renderer": "3.3.1",
+    "@vue/compiler-sfc": "3.3.4",
+    "@vue/server-renderer": "3.3.4",
     "@vueuse/head": "0.9.8",
     "eslint": "8.49.0",
     "typescript": "4.9.5",
     "vite": "3.2.7",
-    "vite-ssg": "0.23.0"
+    "vite-ssg": "0.23.2"
   }
 }
